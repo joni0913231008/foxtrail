@@ -1,2 +1,3 @@
 # foxtrail
-fox 
+In unserem Foxtrail geht es um ... 
+Man kommt an vielen Schönen Orten vorbei und muss dabei spannende Rätsel lösen um zum nächsten Pfosten zu gelangen.
